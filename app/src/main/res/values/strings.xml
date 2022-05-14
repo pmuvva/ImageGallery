@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Gallery</string>
+    <string name="title">Title: %s</string>
+    <string name="description">Description: %s</string>
+    <string name="width">Width: %s</string>
+    <string name="height">Height: %s</string>
+    <string name="author">Author: %s</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="no_recent_items">You have no recent searches. Enter a search term above.</string>
+</resources>

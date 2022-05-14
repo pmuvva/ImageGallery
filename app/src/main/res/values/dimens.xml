@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- paddings and margins -->
+    <dimen name="two_hundred_dp">200dp</dimen>
+    <dimen name="one_fifty_dp">150dp</dimen>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+
+    <!-- text sizes -->
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="eighteen_sp">18sp</dimen>
+
+</resources>
